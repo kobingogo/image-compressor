@@ -1,0 +1,19 @@
+# Next.js
+.next/
+
+# Node.js
+node_modules/
+package-lock.json
+
+# Logs
+logs/
+*.log
+
+# TypeScript
+*.tsbuildinfo
+
+# MacOS
+.DS_Store
+
+# VSCode
+.vscode/
